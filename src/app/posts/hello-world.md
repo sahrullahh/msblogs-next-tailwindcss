@@ -10,3 +10,5 @@ public: true
 Hello my friend see guideline to use
 
 this for personal only can used for create a jurnal or diary
+
+not used backend is client side only
